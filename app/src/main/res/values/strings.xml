@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjectFood1</string>
+    <array name="Type_of_Food">
+        <item>Veg</item>
+        <item>Non-Veg</item>
+    </array>
+
+</resources>
